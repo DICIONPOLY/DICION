@@ -8,6 +8,10 @@
 [![Website](https://img.shields.io/badge/Website-ORBCON-blue?logo=google-chrome)](https://orbcon.fun/)
 [![Twitter](https://img.shields.io/badge/Twitter-ORBCON-blue?logo=twitter)](https://x.com/ORBCONBRG).
 
+```
+CA: 8jzZzpGwyMgtRgRz5RWqsHxHqRBDEuW5R1tBZY5Ppump
+```
+
 ## WTF is Orbcon?
 
 Traditional blockchains are linear:
